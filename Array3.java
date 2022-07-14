@@ -2,7 +2,8 @@ import java.util.*;
 public class Array3{  
 public static void main(String args[]){  
 Stack<String> stack = new Stack<String>();  
-stack.push("LAri");  
+stack.push("Lari"); 
+stack.push("Perera");  
 stack.push("Jeff");  
 stack.push("Terra");  
 stack.push("Magalhaes");  
