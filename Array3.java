@@ -8,6 +8,8 @@ stack.push("Jefferson");
 stack.push("Terra");  
 stack.push("Magalhaes");  
 stack.push("Cardoso");  
+stack.push("Lis Terra");  
+stack.push("Olivia Cardoso");  
 stack.pop();  
 Iterator<String> itr=stack.iterator();  
 while(itr.hasNext()){  
