@@ -4,7 +4,7 @@ public static void main(String args[]){
 Stack<String> stack = new Stack<String>();  
 stack.push("Lari"); 
 stack.push("Perera");  
-stack.push("Jeff");  
+stack.push("Jefferson");  
 stack.push("Terra");  
 stack.push("Magalhaes");  
 stack.push("Cardoso");  
